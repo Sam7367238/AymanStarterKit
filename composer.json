@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "ayman/laravel-starter-kit",
+    "name": "samvendor/laravel-starter-kit",
     "type": "project",
     "description": "The skeleton application.",
     "keywords": [
