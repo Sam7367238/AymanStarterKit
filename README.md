@@ -9,4 +9,5 @@
 
 ## Starter Kit
 
-This is my starter kit for Laravel, use it if you want.
+This is my starter kit for Laravel, use it if you want. It has authentication with simple but optional CSS in the layout file.
+Note: This will be updated to Laravel 13 when I start using Laravel again; I'm too busy with Symfony, but feel free to submit a pull request.
